@@ -1,2 +1,3 @@
 # hello-world-
-I'ts my first repository!(no)
+Hello world!
+Proxima with you, i like Python, C# and Linux. Soon you will see my repositories..
